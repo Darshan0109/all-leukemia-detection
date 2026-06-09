@@ -1,0 +1,7 @@
+model,timm_id,params_M,size_MB,infer_ms
+ResNet50,resnet50,23.51,94.4,7.08
+DenseNet121,densenet121,6.96,28.4,18.57
+EfficientNetV2-S,tf_efficientnetv2_s,20.18,81.6,19.3
+ConvNeXt-Tiny,convnext_tiny,27.82,111.4,6.46
+Swin-Tiny,swin_tiny_patch4_window7_224,27.52,110.2,12.0
+MobileNetV3-L,mobilenetv3_large_100,4.2,17.0,7.11

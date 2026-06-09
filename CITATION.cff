@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Acute Lymphoblastic Leukemia Detection from Microscopic Blood Cell Images"
+message: "If you use this repository, please cite it using this metadata."
+type: software
+authors:
+  - family-names: Bhatt
+    given-names: Darshan
+repository-code: "https://github.com/your-username/ALL-Leukemia-Detection"
+abstract: "Deep-learning pipeline for ALL vs Normal microscopic blood cell image classification with model comparison, Grad-CAM, calibration, uncertainty, and failure analysis."
+keywords:
+  - leukemia
+  - medical-ai
+  - deep-learning
+  - computer-vision
+  - grad-cam
+  - calibration
+license: MIT

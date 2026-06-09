@@ -1,0 +1,5 @@
+split,images,ALL,Normal,patients
+train,7599,4977,2622,53
+val,1087,774,313,11
+test,1287,1080,207,9
+total,9973,6831,3142,73
