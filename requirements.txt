@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+Pillow
+imagehash
+torch
+torchvision
+timm
+grad-cam
+jupyter
+ipykernel

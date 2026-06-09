@@ -1,0 +1,4 @@
+group,count,mean_tta_std
+high-conf correct,627,0.0142
+high-conf wrong,16,0.0231
+high-uncertainty (top 10% TTA std),129,0.1826
